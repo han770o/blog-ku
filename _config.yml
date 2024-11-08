@@ -1,9 +1,9 @@
-title: Hacker-Blog
-description: "A Jekyll Blog Theme For Hackers"
+title: xornandor-blog
+description: "Blog sederhana, isinya tentang cyber security, linux, saintek, dan lain-lain."
 author:
-  name: "SomeHacker"
-  email: "someone@somewebsite.somedomain"
-  url: "https://ashishchaudhary.in/hacker-blog"
+  name: "xornandor"
+  email: "noemail"
+  url: "https://xornandor.github.io"
 
 baseurl: /
 
